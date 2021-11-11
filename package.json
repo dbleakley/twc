@@ -1,0 +1,20 @@
+ {
+  "name": "@darrell.bleakley/twc",
+  "version": "0.0.1",
+  "description": "Thunder Web Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing\"",
+    "build": "echo \"Building\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbleakley/twc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbleakley/twc/issues"
+  },
+  "homepage": "https://github.com/dbleakley/twc#readme"
+}
